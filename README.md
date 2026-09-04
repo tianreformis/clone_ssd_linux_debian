@@ -83,5 +83,4 @@ Script ini awalnya dibuat untuk migrasi **Intel NUC6CAYH** dari HDD 500GB ke SSD
 - File `clone_ssd.txt` berisi salinan identik dari `clone_ssd.sh`, disediakan sebagai referensi/backup teks biasa.
 
 ## Lisensi
-
-Belum ditentukan. Tambahkan file `LICENSE` sesuai kebutuhan (misalnya MIT) jika project ini ingin dibagikan secara publik.
+- MIT Public License
